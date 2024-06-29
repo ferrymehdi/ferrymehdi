@@ -1,23 +1,6 @@
 <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ferrymehdi&show_icons=true&theme=radical"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ferrymehdi&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=ferrymehdi&show_icons=true" />
-</picture>
-<br/>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ferrymehdi&show_icons=true&theme=radical&card_width=467&layout=compact&langs_count=10&size_weight=0.2&count_weight=0.8"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ferrymehdi&show_icons=true&card_width=467&layout=compact&langs_count=10&size_weight=0.2&count_weight=0.8"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ferrymehdi&show_icons=true&card_width=467&layout=compact&langs_count=10&size_weight=0.2&count_weight=0.8" />
+ <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=medone-1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=medone-1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 </picture>

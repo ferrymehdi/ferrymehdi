@@ -1,6 +1,6 @@
 # 👋 About Me
 
-I'm Mehdi Ferry, a self-taught Developer specializing in JavaScript and web technologies. I run a website called [selftouns.shop](https://selftouns.shop) where I sell Discord music bots powered by Lavalink.
+I'm Mehdi Ferry, a self-taught Developer specializing in JavaScript and web technologies.
 
 ## 🚀 Skilled In
 
@@ -30,6 +30,10 @@ I'm Mehdi Ferry, a self-taught Developer specializing in JavaScript and web tech
 ## 🛠️ Projects
 
 - [selftouns.shop](https://selftouns.shop) - My website for selling Discord music bots using Lavalink.
+
+## 🌐 My Portfolio
+
+Check out my full portfolio at [mehdiferry.xyz](https://mehdiferry.xyz), where you can learn more about my work, projects, and experience.
 
 ## 📫 Contact Me
 

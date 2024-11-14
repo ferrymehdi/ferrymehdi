@@ -25,7 +25,6 @@ I'm Mehdi Ferry, a self-taught Developer specializing in JavaScript and web tech
 ### Back-End Development
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Lavalink](https://img.shields.io/badge/Lavalink-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 ## 🛠️ Projects
 

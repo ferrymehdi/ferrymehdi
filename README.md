@@ -1,6 +1,21 @@
 # 👋 About Me
 
-I'm Mehdi Ferry, a self-taught Developer specializing in JavaScript and web technologies.
+```java
+public class User {
+    private String name;
+    private int age;
+    private String funFact;
+    
+    public static void main(String[] args) {
+        User me = new User();
+        me.name = "Mehdi Ferry";
+        me.age = 20;
+        me.funFact = "My username FERRY comes from my last name";
+        
+        System.out.println("Welcome to my GitHub profile!");
+    }
+}
+```
 
 ## 🚀 Skilled In
 

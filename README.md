@@ -43,7 +43,7 @@ public class User {
 
 ## 🌐 My Portfolio
 
-Check out my full portfolio at [mehdiferry.xyz](https://ferrymehdi.xyz), where you can learn more about my work, projects, and experience.
+Check out my full portfolio at [ferrymehdi.xyz](https://ferrymehdi.xyz), where you can learn more about my work, projects, and experience.
 
 ## 📫 Contact Me
 

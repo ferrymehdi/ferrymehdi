@@ -40,13 +40,10 @@ public class User {
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 🛠️ Projects
-
-- [selftouns.shop](https://selftouns.shop) - My website for selling Discord music bots using Lavalink.
 
 ## 🌐 My Portfolio
 
-Check out my full portfolio at [mehdiferry.xyz](https://mehdiferry.xyz), where you can learn more about my work, projects, and experience.
+Check out my full portfolio at [mehdiferry.xyz](https://ferrymehdi.xyz), where you can learn more about my work, projects, and experience.
 
 ## 📫 Contact Me
 
